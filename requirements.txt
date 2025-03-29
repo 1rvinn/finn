@@ -1,0 +1,5 @@
+simplegmail
+notion-client
+requests
+python-dotenv
+ollama
